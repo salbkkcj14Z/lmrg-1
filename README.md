@@ -1,11 +1,11 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23839308.svg)]([https://doi.org/10.5281/zenodo.23839308](https://doi.org/10.5281/zenodo.23839308))
+[[https://zenodo.org/badge/DOI/10.5281/zenodo.24301371.svg]](https://doi.org/10.5281/zenodo.24301371)
 # LMRG-1
 > **Intent-Driven Cognitive Programming Framework**
 
 An enterprise-ready proof-of-work demonstrating the shift from traditional, syntax-heavy procedural code to telemetry-steered cognitive architecture. Built on high-concurrency async patterns, geometric state-space routing, and zero-trust verification.
 
 ---
-2## Architecture Overview
+## Architecture Overview
 
 Traditional software engineering relies on deterministic procedural control loops. This framework operationalizes intent-based execution:
 
