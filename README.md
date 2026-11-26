@@ -6,8 +6,7 @@
 An enterprise-ready proof-of-work demonstrating the shift from traditional, syntax-heavy procedural code to telemetry-steered cognitive architecture. Built on high-concurrency async patterns, geometric state-space routing, and zero-trust verification.
 
 ---
-
-## Architecture Overview
+2## Architecture Overview
 
 Traditional software engineering relies on deterministic procedural control loops. This framework operationalizes intent-based execution:
 
