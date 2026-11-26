@@ -1,4 +1,4 @@
-[[https://zenodo.org/badge/DOI/10.5281/zenodo.24301371.svg)]([(https://doi.org/10.5281/zenodo.24301371)]
+[https://zenodo.org/badge/DOI/10.5281/zenodo.24301371.svg)](https://doi.org/10.5281/zenodo.24301371)
 # LMRG-1
 > **Intent-Driven Cognitive Programming Framework**
 
